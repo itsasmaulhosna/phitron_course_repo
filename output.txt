@@ -1,0 +1,2 @@
+Enter two numbers: second number is: 45
+first number is: 20
