@@ -1,1 +1,4 @@
-hello
+Sum of 10 and 2 is 12
+Subtraction of 10 and 2 is 8
+Multiplication of 10 and 2 is 20
+Division of 10 and 2 is 5
