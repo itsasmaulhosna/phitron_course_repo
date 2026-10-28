@@ -3,12 +3,12 @@
 int main(){
     char a[101],b[101];
     scanf("%s %s",&a,&b);
+    strcpy(a,b);
+    // int length=strlen(b);
     
-    int length=strlen(b);
-    
-    for(int i=0;i<=length;i++){
-        a[i]=b[i];
-    }
+    // for(int i=0;i<=length;i++){
+    //     a[i]=b[i];
+    // }
     printf("%s %s",a,b);
     return 0;
 }
