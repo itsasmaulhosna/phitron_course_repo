@@ -1,3 +1,1 @@
-123
-345
-456
+Not a column matrix
