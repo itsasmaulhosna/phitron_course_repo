@@ -1,1 +1,1 @@
-Not a column matrix
+Primary diagonal matrix

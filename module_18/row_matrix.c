@@ -8,6 +8,10 @@ int main(){
         scanf("%d",&arr[i][j]);
     }
 }
+//r==c then it is a square matrix
+//r==1 then it is a row matrix
+//c==1 then it is a column matrix
+
 if(c==1){
     printf("Column matrix\n");
 }

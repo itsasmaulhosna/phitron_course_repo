@@ -16,7 +16,7 @@ int main(){
 int specific_col; // Specify the column you want to print
 scanf("%d", &specific_col);
 for(int i=0;i<r;i++){
-    printf("%d\n ",arr[i][specific_col]);
+    printf("%d\n",arr[i][specific_col]);
 }
 return 0;
 }
